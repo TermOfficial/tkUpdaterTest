@@ -1,0 +1,7 @@
+{
+  "name": "Project Eternity",
+  "pkgName": "com.eggotk.eternity",
+  "chunks": 10,
+  "banner": "ebanner.png",
+  "filePrefix": "EggoTK_Eternity"
+}
