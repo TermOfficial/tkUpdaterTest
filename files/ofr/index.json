@@ -1,0 +1,7 @@
+{
+  "name": "osu!std",
+  "pkgName": "com.spiritsk.realosu",
+  "chunks": 65,
+  "banner": "ofrbanner.png",
+  "filePrefix": "ofr"
+}
