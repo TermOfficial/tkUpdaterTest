@@ -1,0 +1,7 @@
+{
+  "name": "tetrisblitz",
+  "pkgName": "com.studiobool.tetrisblitzidh",
+  "chunks": 24,
+  "banner": "ofrbanner.png",
+  "filePrefix": "tb"
+}
